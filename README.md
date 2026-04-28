@@ -49,7 +49,6 @@ This means, on average, the model's hourly forecast was off by approximately 5 b
 <img width="1241" height="545" alt="image" src="https://github.com/user-attachments/assets/dd276c8f-d494-4136-ab8b-103885f4468d" />
 
 
-*(Add your plot images here in your GitHub repo, e.g., `components_plot.png` and `forecast_test.png`)*
 
 ## 6. Business Value
 
