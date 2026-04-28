@@ -57,16 +57,3 @@ This forecasting model provides **actionable, proactive intelligence**. An opera
 * **Prevent Full Stations:** Proactively send a truck to remove bikes *before* the 6 PM rush.
 
 This directly improves operational efficiency and customer satisfaction.
-
-## 7. How to Run
-
-1.  Clone this repository.
-2.  Ensure you have the combined data file `dublinbikes_2023_combined.csv` in the same directory.
-3.  Install the required libraries:
-    ```bash
-    pip install pandas matplotlib statsmodels prophet sklearn
-    ```
-4.  Run the Python script:
-    ```bash
-    python dublinbikes_forecast.py
-    ```
